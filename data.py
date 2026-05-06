@@ -1,5 +1,3 @@
-# data.py
-
 history = [
     "User: Hi there! How are you doing today? | Bot: Hello! I'm doing great, thank you!",
     "User: What's the weather like today in New York? | Bot: Today in New York, it's sunny.",
